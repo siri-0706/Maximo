@@ -1,0 +1,1 @@
+{ "name":"maximo-server","type":"module","dependencies":{"express":"^4","mongoose":"^7","cors":"^2","dotenv":"^16"},"scripts":{"start":"node server.js"}}
